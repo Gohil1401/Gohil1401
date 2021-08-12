@@ -1,7 +1,5 @@
 - 
-I am currently pursuing my BE in the stream of Information Technology from SVIT, vasad. Good at problem solving skills as well as a good team player. Looking forward to learn new skills and technologies to enhance my skills and knowledge and implement in the field to contribute towards the growth of organization and myself
-
-
+   I am currently pursuing my BE in the stream of Information Technology from SVIT, vasad. Good at problem solving skills as well as a good team player. Looking forward to learn    new skills and technologies to enhance my skills and knowledge and implement in the field to contribute towards the growth of organization and myself
 
 👋 Hi, I’m @Gohil1401
 - 👀 I’m interested in ...programming , Development and Always ready to Learning new things
