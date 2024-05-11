@@ -1,4 +1,4 @@
-- 
+
 Hi👋, I'm Mohit Gohil, a versatile software professional🧑🏻‍💻 currently pursuing a Master's of Applied Computing Science at the University of Windsor and looking for co-op opportunities for Fall 2024. I bring over 1.5 years of combined internship and full-time job experience with a solid foundation in both full-stack development and data science."
 
 • As a MERN Stack Developer Intern at APPMIXO BUSINESS INCUBATOR🌐, I crafted responsive user interfaces and developed robust REST APIs, significantly enhancing data management and visualization for our clients.
