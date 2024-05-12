@@ -9,7 +9,7 @@ Hi👋, I'm Mohit Gohil, a versatile software professional🧑🏻‍💻 curren
 
 I am passionate about utilizing my skills to contribute to organizational growth and am always excited to connect with new people in the tech community. Let’s explore how we can drive technological advancements together!
 
-📧 You can reach me gohil53@uwindsor.ca
+📧 You can reach me at gohil53@uwindsor.ca
 
 <!---
 Gohil1401/Gohil1401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
