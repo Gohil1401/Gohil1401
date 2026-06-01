@@ -84,25 +84,10 @@ const mohit = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gohil1401&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gohil1401&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🍔 Bargain Bites &nbsp;·&nbsp; `Flutter` `Dart` `Firebase` `Figma`
-Real-time inventory mobile app listing near-expired products at a discount.
-- 📈 Drove a **25% increase** in adoption with a real-time discounted-item feed.
-- ♻️ Cut food waste by **32%** through daily discount notifications.
-
-### 🛡️ Warranty Admin Dashboard &nbsp;·&nbsp; `React` `Next.js` `Node.js` `MongoDB` `TypeScript`
-[🔗 Live Demo](https://minimal-kit-react.vercel.app)
-- 🧩 Built **20+ modular, TypeScript-typed** reusable components.
-- ⚡ Lifted UI responsiveness and user engagement by **25%**.
-
----
 
 > ⚙️ Architected RESTful APIs over a microservices backend · Automated CI/CD pipelines (GitLab CI, Jenkins, Docker), raising deployment efficiency by **40%** · Boosted real-time data throughput by **30%**.
 
