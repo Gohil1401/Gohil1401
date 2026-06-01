@@ -84,10 +84,9 @@ const mohit = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gohil1401&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-350-7AA2F7?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
 
 > ⚙️ Architected RESTful APIs over a microservices backend · Automated CI/CD pipelines (GitLab CI, Jenkins, Docker), raising deployment efficiency by **40%** · Boosted real-time data throughput by **30%**.
 
