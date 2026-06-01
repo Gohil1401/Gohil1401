@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gohilmohit1401)
 [![Dev.to](https://img.shields.io/badge/Dev.to-3K%2B%20Followers-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gohil1401)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gohil53@uwindsor.ca)
-![Profile Views](https://komarev.com/ghpvc/?username=Gohil1401&style=for-the-badge&color=9D7CD8&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Gohil1401&style=for-the-badge&color=9D7CD8&label=PROFILE+VIEWS&base=150)
 
 </div>
 
@@ -126,3 +126,4 @@ Real-time inventory mobile app listing near-expired products at a discount.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D7CD8,100:7AA2F7&height=120&section=footer" />
 
 </div>
+
