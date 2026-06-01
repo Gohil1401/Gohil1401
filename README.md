@@ -104,30 +104,13 @@ Real-time inventory mobile app listing near-expired products at a discount.
 
 ---
 
-## 💼 Experience
-
-| Role | Company | When |
-|------|---------|------|
-| **MERN Stack Developer** | Appmixo Business Incubator · Surat, India | Nov 2022 – Jul 2023 |
-| **Full-Stack Developer Intern** | ADS Engine Media · Rajkot, India | May 2022 – Oct 2022 |
-| **Data Science Intern** | GoeduHub Technologies · Jaipur, India (Remote) | May 2021 – Jul 2021 |
-
 > ⚙️ Architected RESTful APIs over a microservices backend · Automated CI/CD pipelines (GitLab CI, Jenkins, Docker), raising deployment efficiency by **40%** · Boosted real-time data throughput by **30%**.
 
----
-
-## 🏆 Achievements & Certifications
-
-- 🥈 **Smart India Hackathon (2020)** — Secured **2nd Place** leading an e-commerce order-management web app.
-- ✍️ **Dev.to Technical Blogger** — Grew a software-engineering tutorial blog to **3K+ followers**.
-- 📜 **Certifications:** Google IT Support · Azure DevOps · Software Architecture · Software Testing · Agile (PMI)
-
----
 
 ## 🎓 Education
 
-- **Master of Applied Computing Science** — University of Windsor, ON *(Sep 2023 – Present)*
-- **B.Tech, Information Technology** — Gujarat Technological University *(GPA 3.45 / 4.00)*
+- **Master of Applied Computing Science** - University of Windsor, Windsor, ON 
+- **B.Tech, Information Technology** - Gujarat Technological University, Gujarat, India 
 
 ---
 
