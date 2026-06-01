@@ -84,7 +84,7 @@ const mohit = {
 
 <div align="center">
 
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions-350-7AA2F7?style=for-the-badge&logo=github&logoColor=white)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gohil1401&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 
 </div>
 
